@@ -1,2 +1,2 @@
 # tarea-1-
-la tare 
+la tarea
